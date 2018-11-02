@@ -4,7 +4,7 @@ I'm a guest researcher in Logic at the [ILLC](http://www.illc.uva.nl), Universit
 
 ## Output
 ### Thesis
-I wrote my master's thesis _"Loyalty and Faithfulness of Model Constructions for Constructive Set Theory"_ under the supervision of [Professor Benedikt Löwe](https://www.math.uni-hamburg.de/home/loewe/) ([abstract](https://eprints.illc.uva.nl/1612/), [pdf](https://eprints.illc.uva.nl/1612/7/MoL-2018-03.text.pdf)).
+I wrote my master's thesis _"Loyalty and Faithfulness of Model Constructions for Constructive Set Theory"_ under the supervision of [Professor Benedikt Löwe](https://www.math.uni-hamburg.de/home/loewe/) ([abstract](https://eprints.illc.uva.nl/1612/), [pdf](https://eprints.illc.uva.nl/1612/7/MoL-2018-03.text.pdf)). Note that this online version has a mistake in the proof of Theorem 5.8 but the theorem still holds (see [corrigendum](https://robertpassmann.github.io/corrigendum-thesis.pdf)).
 
 ### Talks
 - **The Propositional Logic of Models of Set Theory**, Colloquium Logicum 2018, 15 September 2018 ([slides](https://robertpassmann.github.io/talks/2018-Bayreuth.pdf), [conference](https://www.cl2018.uni-bayreuth.de/en/program/index.html)).
