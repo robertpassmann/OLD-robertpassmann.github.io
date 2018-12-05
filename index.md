@@ -15,6 +15,7 @@ I wrote my master's thesis _"Loyalty and Faithfulness of Model Constructions for
 #### Upcoming
 - **Logical aspects of algebra-valued models of set theory**, Algebra|Coalgebra Seminar, ILLC, University of Amsterdam, 19 December 2018 ([seminar/abstract](http://events.illc.uva.nl/alg-coalg/)).
 - **Constructing illoyal algebra-valued models of set theory**, SYSMICS 2019, Amsterdam, 21-25 January 2019, ([conference](https://events.illc.uva.nl/SYSMICS2019/)).
+
 #### Past Talks
 - **The de Jongh Property for a Subtheory of CZF**, Oberseminar mathematische Logik, University of Bonn, 6 November 2018 ([seminar/abstract](http://www.math.uni-bonn.de/ag/logik/teaching/2018WS/oberseminar.shtml)).
 - **The Propositional Logic of Models of Set Theory**, Colloquium Logicum 2018, 15 September 2018 ([slides](https://robertpassmann.github.io/talks/2018-Bayreuth.pdf), [conference](https://www.cl2018.uni-bayreuth.de/en/program/index.html)).
