@@ -1,5 +1,4 @@
 ---
-title: A short test
 layout: default
 ---
 
