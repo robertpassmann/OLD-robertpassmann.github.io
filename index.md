@@ -1,5 +1,3 @@
-# Overview
-
 I'm a guest researcher in Logic at the [ILLC](http://www.illc.uva.nl), University of Amsterdam, funded by an [Exposé-Stipendium](https://www.studienstiftung.de/aktuelles/artikel/expose-stipendium-der-studienstiftung-erste-stipendien-zur-vorbereitung-anspruchsvoller-dissertati/) of the [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de) (German Academic Scholarship Foundation) to write a proposal for a PhD project. My interests lie in the foundations of mathematics and their philosophy. 
 
 ## Output
@@ -25,3 +23,7 @@ Forschungsseminar Mathematische Logik, University of Hamburg, Germany, 7 May 201
 of set theory**, Categories Seminar, University of Cambridge, United Kingdom, 13 February 2018 ([abstract](http://talks.cam.ac.uk/talk/index/101122)).
 - **Surreal Numbers**, Set Theory Seminar, University of Cambridge, United Kingdom, 31 January 2017 ([abstract](http://talks.cam.ac.uk/talk/index/70592)).
 - **One Axiom to Rule Them All**, Cool Logic Seminar, ILLC, University of Amsterdam, The Netherlands, 4 November 2016 ([abstract](http://events.illc.uva.nl/coollogic/talks/75)).
+
+### Events
+
+I co-organised a conference on logic as a subject on the interface of mathematics and philosophy in Göttingen in 2017 (see [LMP2017](https://lmp2017.weebly.com/), in German), and the conference "Foundations in Mathematics: Modern Views" at the MCMP in Munich in 2018 (see [FMV2018](https://fmv2018.weebly.com/)).
