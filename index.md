@@ -11,10 +11,10 @@ I wrote my master's thesis _"Loyalty and Faithfulness of Model Constructions for
 
 ### Talks
 #### Upcoming
-- **Logical aspects of algebra-valued models of set theory**, Algebra\|Coalgebra Seminar, ILLC, University of Amsterdam, 19 December 2018 ([seminar/abstract](http://events.illc.uva.nl/alg-coalg/)).
 - **Constructing illoyal algebra-valued models of set theory**, SYSMICS 2019, Amsterdam, 21-25 January 2019, ([conference](https://events.illc.uva.nl/SYSMICS2019/)).
 
 #### Past Talks
+- **Logical aspects of algebra-valued models of set theory**, Algebra\|Coalgebra Seminar, ILLC, University of Amsterdam, 19 December 2018 ([seminar/abstract](http://events.illc.uva.nl/alg-coalg/)).
 - **The de Jongh Property for a Subtheory of CZF**, Oberseminar mathematische Logik, University of Bonn, 6 November 2018 ([seminar/abstract](http://www.math.uni-bonn.de/ag/logik/teaching/2018WS/oberseminar.shtml)).
 - **The Propositional Logic of Models of Set Theory**, Colloquium Logicum 2018, 15 September 2018 ([slides](https://robertpassmann.github.io/talks/2018-Bayreuth.pdf), [conference](https://www.cl2018.uni-bayreuth.de/en/program/index.html)).
 - **Heyting structures: Loyalty, faithfulness and an application to the de Jongh property**,
@@ -24,6 +24,6 @@ of set theory**, Categories Seminar, University of Cambridge, United Kingdom, 13
 - **Surreal Numbers**, Set Theory Seminar, University of Cambridge, United Kingdom, 31 January 2017 ([abstract](http://talks.cam.ac.uk/talk/index/70592)).
 - **One Axiom to Rule Them All**, Cool Logic Seminar, ILLC, University of Amsterdam, The Netherlands, 4 November 2016 ([abstract](http://events.illc.uva.nl/coollogic/talks/75)).
 
-### Events
+### Organisation
 
 I co-organised a conference on logic as a subject on the interface of mathematics and philosophy in Göttingen in 2017 (see [LMP2017](https://lmp2017.weebly.com/), in German), and the conference "Foundations in Mathematics: Modern Views" at the MCMP in Munich in 2018 (see [FMV2018](https://fmv2018.weebly.com/)).
