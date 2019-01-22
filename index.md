@@ -10,10 +10,7 @@ I'm a guest researcher in logic at the [ILLC](http://www.illc.uva.nl), Universit
 I wrote my master's thesis _"Loyalty and Faithfulness of Model Constructions for Constructive Set Theory"_ under the supervision of [Professor Benedikt Löwe](https://www.math.uni-hamburg.de/home/loewe/) ([abstract](https://eprints.illc.uva.nl/1612/), [pdf](https://eprints.illc.uva.nl/1612/7/MoL-2018-03.text.pdf)). Note that this online version has a mistake in the proof of Theorem 5.8 but the theorem still holds (see [corrigendum](https://robertpassmann.github.io/corrigendum-thesis.pdf)).
 
 ### Talks
-#### Upcoming
 - **Constructing illoyal algebra-valued models of set theory**, SYSMICS 2019, Amsterdam, 21-25 January 2019, ([slides](https://robertpassmann.github.io/talks/2019-SYSMICS.pdf), [conference](https://events.illc.uva.nl/SYSMICS2019/)).
-
-#### Past Talks
 - **Logical aspects of algebra-valued models of set theory**, Algebra\|Coalgebra Seminar, ILLC, University of Amsterdam, 19 December 2018 ([seminar/abstract](http://events.illc.uva.nl/alg-coalg/)).
 - **The de Jongh Property for a Subtheory of CZF**, Oberseminar mathematische Logik, University of Bonn, 6 November 2018 ([seminar/abstract](http://www.math.uni-bonn.de/ag/logik/teaching/2018WS/oberseminar.shtml)).
 - **The Propositional Logic of Models of Set Theory**, Colloquium Logicum 2018, 15 September 2018 ([slides](https://robertpassmann.github.io/talks/2018-Bayreuth.pdf), [conference](https://www.cl2018.uni-bayreuth.de/en/program/index.html)).
