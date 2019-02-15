@@ -29,3 +29,7 @@ of set theory**, Categories Seminar, University of Cambridge, United Kingdom, 13
 ### Organisation
 
 I co-organised a conference on logic as a subject on the interface of mathematics and philosophy in Göttingen in 2017 (see [LMP2017](https://lmp2017.weebly.com/), in German), and the conference "Foundations in Mathematics: Modern Views" at the MCMP in Munich in 2018 (see [FMV2018](https://fmv2018.weebly.com/)).
+
+### Service
+
+I have been a reviewer for the *Annals of Pure and Applied Logic* and the *Journal of Logic, Language and Information*.
