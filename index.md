@@ -2,6 +2,7 @@ I'm a guest researcher in logic at the [ILLC](http://www.illc.uva.nl), Universit
 
 ## Output
 ### Publications
+- Robert Passmann, **E-models for intuitionistic Zermelo-Fraenkel set theory**, in preparation. Draft available upon request.
 - Robert Passmann, **The de Jongh Property for bounded constructive Zermelo-Fraenkel set theory**, submitted for publication ([preprint](https://eprints.illc.uva.nl/id/document/10165)).
 - Benedikt Löwe, Robert Passmann, Sourav Tarafder, **Constructing illoyal algebra-valued models of set theory**, submitted for publication ([preprint](https://eprints.illc.uva.nl/1647/1/LPT.pdf)).
 - with Martin Potthast et al. (2016) **Who Wrote the Web? Revisiting Influential Author Identification Research Applicable to Information Retrieval**. In: Ferro N. et al. (eds) Advances in Information Retrieval. ECIR 2016. Lecture Notes in Computer Science, vol 9626. Springer, Cham ([proceedings](https://link.springer.com/chapter/10.1007%2F978-3-319-30671-1_29)).
@@ -11,6 +12,10 @@ I'm a guest researcher in logic at the [ILLC](http://www.illc.uva.nl), Universit
 I wrote my master's thesis _"Loyalty and Faithfulness of Model Constructions for Constructive Set Theory"_ under the supervision of [Professor Benedikt Löwe](https://www.math.uni-hamburg.de/home/loewe/) ([abstract](https://eprints.illc.uva.nl/1612/), [pdf](https://eprints.illc.uva.nl/1612/7/MoL-2018-03.text.pdf)). Note that this online version has a mistake in the proof of Theorem 5.8 but the theorem still holds (see [corrigendum](https://robertpassmann.github.io/corrigendum-thesis.pdf)).
 
 ### Talks
+#### Upcoming
+- **E-models of IZF and intuitionistic multiverses**, Joel David Hamkins in Amsterdam 2019, ILLC, University of Amsterdam, 11 May 2019 ([workshop](http://events.illc.uva.nl/Workshops/Hamkins2019/)).
+
+#### Past Talks
 - **The de Jongh Property for bounded constructive Zermelo-Fraenkel set theory**, TULIPS – The Utrecht Logic in Progress Series, Utrecht University, 5 March 2019 ([slides](https://robertpassmann.github.io/talks/2019-tulips.pdf), [seminar](https://tulips.sites.uu.nl)).
 - **Constructing illoyal algebra-valued models of set theory**, SYSMICS 2019, Amsterdam, 21-25 January 2019 ([slides](https://robertpassmann.github.io/talks/2019-SYSMICS.pdf), [conference](https://events.illc.uva.nl/SYSMICS2019/)).
 - **Logical aspects of algebra-valued models of set theory**, Algebra\|Coalgebra Seminar, ILLC, University of Amsterdam, 19 December 2018 ([seminar/abstract](http://events.illc.uva.nl/alg-coalg/)).
