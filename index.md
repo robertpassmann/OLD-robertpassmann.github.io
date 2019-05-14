@@ -2,7 +2,7 @@ I'm a guest researcher in logic at the [ILLC](http://www.illc.uva.nl), Universit
 
 ## Output
 ### Publications
-- Robert Passmann, **De Jongh's Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**, ([preprint](https://arxiv.org/abs/1905.04972)).
+- Robert Passmann, **De Jongh's Theorem for Intuitionistic Zermelo-Fraenkel Set Theory** ([preprint](https://arxiv.org/abs/1905.04972)).
 - Robert Passmann, **The de Jongh Property for bounded constructive Zermelo-Fraenkel set theory**, submitted for publication ([preprint](https://eprints.illc.uva.nl/id/document/10165)).
 - Benedikt Löwe, Robert Passmann, Sourav Tarafder, **Constructing illoyal algebra-valued models of set theory**, submitted for publication ([preprint](https://eprints.illc.uva.nl/1647/1/LPT.pdf)).
 - with Martin Potthast et al. (2016) **Who Wrote the Web? Revisiting Influential Author Identification Research Applicable to Information Retrieval**. In: Ferro N. et al. (eds) Advances in Information Retrieval. ECIR 2016. Lecture Notes in Computer Science, vol 9626. Springer, Cham ([proceedings](https://link.springer.com/chapter/10.1007%2F978-3-319-30671-1_29)).
