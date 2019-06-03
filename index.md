@@ -1,4 +1,4 @@
-I'm a guest researcher in logic at the [ILLC](http://www.illc.uva.nl), University of Amsterdam, funded by an [Exposé-Stipendium](https://www.studienstiftung.de/aktuelles/artikel/expose-stipendium-der-studienstiftung-erste-stipendien-zur-vorbereitung-anspruchsvoller-dissertati/) of the [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de) (German Academic Scholarship Foundation) to prepare for my PhD studies. My interests lie in mathematical logic, the foundations of mathematics and their philosophy. 
+I am a PhD candidate at the [ILLC](http://www.illc.uva.nl), University of Amsterdam, under the supervision of [Professor Benedikt Löwe](https://www.math.uni-hamburg.de/home/loewe/). My project is funded by a [doctoral scholarship](https://www.studienstiftung.de/en/promotion/) of the [Studienstiftung des deutschen Volkes](https://www.studienstiftung.de) (German Academic Scholarship Foundation). My interests lie in mathematical logic, the foundations of mathematics and their philosophy. 
 
 ## Output
 ### Publications
