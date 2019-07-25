@@ -12,6 +12,11 @@ I am a PhD candidate at the [ILLC](http://www.illc.uva.nl), University of Amster
 I wrote my master's thesis _"Loyalty and Faithfulness of Model Constructions for Constructive Set Theory"_ under the supervision of [Professor Benedikt Löwe](https://www.math.uni-hamburg.de/home/loewe/) ([abstract](https://eprints.illc.uva.nl/1612/), [pdf](https://eprints.illc.uva.nl/1612/7/MoL-2018-03.text.pdf)). Note that this online version has a mistake in the proof of Theorem 5.8 but the theorem still holds (see [corrigendum](https://robertpassmann.github.io/corrigendum-thesis.pdf)).
 
 ### Talks
+
+#### Upcoming Talks
+- **De Jongh's Theorem for Intuitionistic Zermelo-Fraenkel Set Theory**, DMV-Jahrestagung 2019, Sektion: Logik und Theoretische Informatik, Department of Mathematics (MATH), Karlsruhe Institute of Technology (KIT), 25 September 2019 ([conference](https://dmv2019.math.kit.edu/programm/programm-fuer-logik-und-theoretische-informatik/)).
+
+#### Past Talks
 - **E-models of IZF and intuitionistic multiverses**, Joel David Hamkins in Amsterdam 2019, ILLC, University of Amsterdam, 11 May 2019 ([workshop](http://events.illc.uva.nl/Workshops/Hamkins2019/)).
 - **The de Jongh Property for bounded constructive Zermelo-Fraenkel set theory**, TULIPS – The Utrecht Logic in Progress Series, Utrecht University, 5 March 2019 ([slides](https://robertpassmann.github.io/talks/2019-tulips.pdf), [seminar](https://tulips.sites.uu.nl)).
 - **Constructing illoyal algebra-valued models of set theory**, SYSMICS 2019, Amsterdam, 21-25 January 2019 ([slides](https://robertpassmann.github.io/talks/2019-SYSMICS.pdf), [conference](https://events.illc.uva.nl/SYSMICS2019/)).
