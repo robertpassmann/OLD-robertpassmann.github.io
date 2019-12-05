@@ -33,6 +33,8 @@ of set theory**, Categories Seminar, University of Cambridge, United Kingdom, 13
 
 ### Organisation
 
+I am co-organising a contributed symposium on the interplay of metaphysical positions in the philosophy of mathematics and mathematical practice "M²SP: Metaphysics Meets Set Theoretic Practice" with Deniz Sarikaya (see [M²SP](https://m2sp.weebly.com/)) at SoPhia 2020 in Salzburg.
+
 I co-organised a conference on logic as a subject on the interface of mathematics and philosophy in Göttingen in 2017 (see [LMP2017](https://lmp2017.weebly.com/), in German), and the conference "Foundations in Mathematics: Modern Views" at the MCMP in Munich in 2018 (see [FMV2018](https://fmv2018.weebly.com/)).
 
 ### Service
